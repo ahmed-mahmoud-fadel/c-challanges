@@ -1,0 +1,21 @@
+#include <iostream>
+using namespace std;
+
+
+int main() {
+    int exit = 9999;
+    int counter = 0;
+    int sum;
+
+    cout << "Enter a list of space separated integers for average calculation. " << exit << " ends input\n> ";
+    cin >> sum;
+
+    for (int i = 0; i != exit; counter++) {
+        sum += i;
+        cin >> i;
+    }
+
+    cout << "Average: " << sum/counter << endl;
+
+    system("pause");
+}
