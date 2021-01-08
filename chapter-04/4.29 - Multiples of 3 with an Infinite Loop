@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int num = 3;
+
+    while (true) {
+        cout << num << endl;
+        num *= 3;
+    }
+
+    system("pause");
+}
