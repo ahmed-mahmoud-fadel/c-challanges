@@ -11,7 +11,7 @@ bool multiple(int first, int second)
     return (second % first == 0);
 }
 int main() {
-    int n, first, second, choice = 0;
+    int n, first, second;
 
     cout<< "Program to determine if second integer is a multiple of a first\n" << endl;
     cout << "Enter a series of pairs of integers: " << endl;
