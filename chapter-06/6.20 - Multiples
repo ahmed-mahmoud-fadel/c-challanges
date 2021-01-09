@@ -1,0 +1,28 @@
+/*(Multiples) Write a function multiple that determines for a pair of integers whether the second is a multiple of the first. The function should take two integer arguments and return true if the
+second is a multiple of the first, false otherwise. Use this function in a program that inputs a series
+of pairs of integers.*/
+
+
+#include <iostream>
+using namespace std;
+
+bool multiple(int first, int second)
+{
+    return (second % first == 0);
+}
+int main() {
+    int n, first, second, choice = 0;
+
+    cout<< "Program to determine if second integer is a multiple of a first\n" << endl;
+    cout << "Enter a series of pairs of integers: " << endl;
+    cin >> n;
+    for (int i =1;i<=n;i++) {
+        cout << "Enter first integer : ";
+        cin >> first;
+        cout << "\nEnter second integer : ";
+        cin >> second;
+        cout << second << " is a multiple of " << first << (multiple(first, second) ? ": true" : ": false") << endl;
+    }
+
+    system("pause");
+}
