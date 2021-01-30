@@ -17,7 +17,8 @@
   - 3.6 Placing a Class in a Separate File for Reusability 83
   - 3.7 Separating Interface from Implementation 87
   - 3.8 Validating Data with set Functions
-**4. Control Statements: Part 1; Assignment, ++ and -- Operators**
+**4. Control Statements: Part 1; Assignment, ++ and -- Operators:**
+
   - 4.1 Introduction 105
   - 4.2 Algorithms 105
   - 4.3 Pseudocode 106
@@ -30,7 +31,8 @@
   - 4.10 Formulating Algorithms: Nested Control Statements 134
   - 4.11 Assignment Operators 139
   - 4.12 Increment and Decrement Operators 14
-**5. Control Statements: Part 2; Logical Operators**
+**5. Control Statements: Part 2; Logical Operators:**
+
   - 5.1 Introduction 158
   - 5.2 Essentials of Counter-Controlled Repetition 158
   - 5.3 for Repetition Statement 159
@@ -41,7 +43,8 @@
   - 5.8 Logical Operators 180
   - 5.9 Confusing the Equality (==) and Assignment (=) Operators 185
   - 5.10 Structured Programming Summary
-**6. Functions and an Introduction to Recursion**
+**6. Functions and an Introduction to Recursion:**
+
   - 6.1 Introduction 202
   - 6.2 Program Components in C++ 203
   - 6.3 Math Library Functions 204
@@ -64,7 +67,8 @@
   - 6.20 Recursion 248
   - 6.21 Example Using Recursion: Fibonacci Series 252
   - 6.22 Recursion vs. Iteration
-**7. Class Templates array and vector; Catching Exceptions**
+**7. Class Templates array and vector; Catching Exceptions:**
+
   - 7.1 Introduction 279
   - 7.2 arrays 279
   - 7.3 Declaring arrays 281x Contents
@@ -83,7 +87,8 @@
   - 7.8 Multidimensional arrays 304
   - 7.9 Case Study: Class GradeBook Using a Two-Dimensional array 307
   - 7.10 Introduction to C++ Standard Library Class Template vector 314
-**8 Pointers**
+**8 Pointers:**
+
   - 8.1 Introduction 335
   - 8.2 Pointer Variable Declarations and Initialization 335
   - 8.3 Pointer Operators 337
@@ -98,7 +103,8 @@
   - 8.8 Pointer Expressions and Pointer Arithmetic 353
   - 8.9 Relationship Between Pointers and Built-In Arrays 355
   - 8.10 Pointer-Based Strings 358
-**9 Classes: A Deeper Look; Throwing Exceptions**
+**9 Classes: A Deeper Look; Throwing Exceptions:**
+
   - 9.1 Introduction 378Contents xi
   - 9.2 Time Class Case Study 379
   - 9.3 Class Scope and Accessing Class Members 385
@@ -113,7 +119,8 @@
   - 9.12 friend Functions and friend Classes 410
   - 9.13 Using the this Pointer 412
   - 9.14 static Class Members
-**10 Operator Overloading; Class string**
+**10 Operator Overloading; Class string:**
+
   - 10.1 Introduction 434
   - 10.2 Using the Overloaded Operators of Standard Library Class string 435
   - 10.3 Fundamentals of Operator Overloading 438
