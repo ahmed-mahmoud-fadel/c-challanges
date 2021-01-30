@@ -1,6 +1,5 @@
  # C++ How To Program 9th Edition
- First Header | Second Header
------------- | -------------
+ 
 **2. Introduction to C++ Programming; Input/Output and Operators:**
   - 2.1 Introduction
   - 2.2 First Program in C++: Printing a Line of Text 39
@@ -8,7 +7,7 @@
   - 2.4 Another C++ Program: Adding Integers 44
   - 2.5 Memory Concepts 48
   - 2.6 Arithmetic 49
-  - 2.7 Decision Making: Equality and Relational Operators |
+  - 2.7 Decision Making: Equality and Relational Operators
   
 **3. Introduction to Classes, Objects and Strings:**
   - 3.1 Introduction 67
@@ -47,7 +46,7 @@
   - 5.8 Logical Operators 180
   - 5.9 Confusing the Equality (==) and Assignment (=) Operators 185
   - 5.10 Structured Programming Summary
-   | 
+  
 **6. Functions and an Introduction to Recursion:**
 
   - 6.1 Introduction 202
