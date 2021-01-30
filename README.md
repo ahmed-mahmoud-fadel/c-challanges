@@ -8,14 +8,14 @@
   +2.6 Arithmetic 49
   +2.7 Decision Making: Equality and Relational Operators
 **3. Introduction to Classes, Objects and Strings**
-  -3.1 Introduction 67
-  -3.2 Defining a Class with a Member Function 67
-  -3.3 Defining a Member Function with a Parameter 70
-  -3.4 Data Members, set Member Functions and get Member Functions 74
-  -3.5 Initializing Objects with Constructors 79
-  -3.6 Placing a Class in a Separate File for Reusability 83
-  -3.7 Separating Interface from Implementation 87
-  -3.8 Validating Data with set Functions
+  - 3.1 Introduction 67
+  - 3.2 Defining a Class with a Member Function 67
+  - 3.3 Defining a Member Function with a Parameter 70
+  - 3.4 Data Members, set Member Functions and get Member Functions 74
+  - 3.5 Initializing Objects with Constructors 79
+  - 3.6 Placing a Class in a Separate File for Reusability 83
+  - 3.7 Separating Interface from Implementation 87
+  - 3.8 Validating Data with set Functions
 **4. Control Statements: Part 1; Assignment, ++ and -- Operators**
   -4.1 Introduction 105
   -4.2 Algorithms 105
