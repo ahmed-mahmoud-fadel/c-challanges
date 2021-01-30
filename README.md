@@ -1,5 +1,5 @@
  # C++ How To Program 9th Edition
-**2. Introduction to C++ Programming; Input/Output and Operators**
+**2. Introduction to C++ Programming; Input/Output and Operators:**
   - 2.1 Introduction
   - 2.2 First Program in C++: Printing a Line of Text 39
   - 2.3 Modifying Our First C++ Program 43
@@ -7,7 +7,7 @@
   - 2.5 Memory Concepts 48
   - 2.6 Arithmetic 49
   - 2.7 Decision Making: Equality and Relational Operators
-**3. Introduction to Classes, Objects and Strings**
+**3. Introduction to Classes, Objects and Strings:**
   - 3.1 Introduction 67
   - 3.2 Defining a Class with a Member Function 67
   - 3.3 Defining a Member Function with a Parameter 70
