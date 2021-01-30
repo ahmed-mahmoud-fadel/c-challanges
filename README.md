@@ -1,4 +1,9 @@
  # C++ How To Program 9th Edition
+ First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 **2. Introduction to C++ Programming; Input/Output and Operators:**
   - 2.1 Introduction
   - 2.2 First Program in C++: Printing a Line of Text 39
