@@ -7,6 +7,7 @@
   - 2.5 Memory Concepts 48
   - 2.6 Arithmetic 49
   - 2.7 Decision Making: Equality and Relational Operators
+  
 **3. Introduction to Classes, Objects and Strings:**
   - 3.1 Introduction 67
   - 3.2 Defining a Class with a Member Function 67
